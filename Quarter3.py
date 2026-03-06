@@ -25,6 +25,7 @@ Question file format:
     3: Third choice
     4: Fourth choice
     ANSWER: 2                      ← number 1-4
+    EXPLAIN: Why this answer is correct (optional — shown on wrong answer)
 """
 
 import tkinter as tk
@@ -68,6 +69,11 @@ def load_questions_from_file(filepath):
                     q["answer"] = int(ans) - 1   # 0-indexed
                     questions.append(q)
                     q = None
+
+            elif line.upper().startswith("EXPLANATION:") and questions:
+                questions[-1]["explain"] = line[12:].strip()
+            elif line.upper().startswith("EXPLAIN:") and questions:
+                questions[-1]["explain"] = line[8:].strip()
 
     return questions
 
@@ -308,6 +314,13 @@ class QuizApp:
                                        bg="#1a1a2e", fg="white")
         self.feedback_label.pack(pady=(0, 2))
 
+        # Explanation (shown on wrong answer)
+        self.explain_label = tk.Label(self.root, text="",
+                                      font=("Courier New", 10, "italic"),
+                                      bg="#1a1a2e", fg="#ffd700",
+                                      wraplength=740, justify="left")
+        self.explain_label.pack(padx=24, pady=(0, 2))
+
         # Hint
         self.hint_label = tk.Label(self.root, text="",
                                    font=("Courier New", 9, "italic"),
@@ -318,6 +331,7 @@ class QuizApp:
     def _load_question(self):
         self.answered = False
         self.feedback_label.config(text="")
+        self.explain_label.config(text="")
         self.hint_label.config(text="Press  1 · 2 · 3 · 4  to answer")
         self._unbind_keys()
         self._bind_answer_keys()
@@ -388,6 +402,11 @@ class QuizApp:
                 "your": q["choices"][idx],
                 "correct": q["choices"][correct_idx]
             })
+
+        # Show explanation for every answer, right or wrong
+        explanation = q.get("explain", "")
+        if explanation:
+            self.explain_label.config(text=f"💡  {explanation}")
 
             # Re-insert question at a random position later in the queue
             # (but not immediately — at least 2 spots away, or end of queue)
