@@ -1,0 +1,221 @@
+# ============================================================
+#  CHAPTER 16 – Capital & Labor (Deep Dive, with explanations)
+# ============================================================
+
+CHAPTER: Ch. 16 – Capital & Labor (Deep)
+
+Q: The Great Railroad Strike of 1877 was triggered by:
+1: The government's attempt to nationalize railroads
+2: Wage cuts by railroad companies during an economic depression
+3: Railroad companies refusing to hire immigrant workers
+4: A federal law banning union membership
+ANSWER: 2
+EXPLAIN: An economic depression prompted major railroads to cut wages 10%. Workers in Maryland, West Virginia, and beyond walked off simultaneously — the first nationwide strike, paralyzing rail traffic across the country.
+
+Q: How did President Hayes respond to the Great Railroad Strike of 1877?
+1: He negotiated a compromise between workers and railroad owners
+2: He passed new labor protections to calm the strikers
+3: He sent federal troops to break the strike
+4: He ignored the strike as a private business matter
+ANSWER: 3
+EXPLAIN: Hayes sent federal troops to suppress the strike — the first major use of federal military force against a labor action. It demonstrated that the government would side with business over workers, a pattern repeated in future strikes.
+
+Q: The Great Railroad Strike is historically significant because:
+1: It led directly to the creation of the AFL
+2: It revealed growing tensions between labor and big business during the Gilded Age
+3: It caused the government to nationalize railroads
+4: It resulted in the first federal minimum wage law
+ANSWER: 2
+EXPLAIN: The 1877 strike showed industrial capitalism had created a dangerous new class conflict. Its violent suppression foreshadowed decades of labor unrest and set the stage for the rise of major labor unions in the 1880s-1890s.
+
+Q: A major criticism of Taylorism was that it:
+1: Made factories less productive
+2: Gave workers too much independence
+3: Worsened working conditions and reduced worker autonomy
+4: Was too expensive for factory owners to implement
+ANSWER: 3
+EXPLAIN: Critics noted Taylorism treated workers like machines — reducing them to repetitive motions timed with a stopwatch, removing all skill and judgment. It increased productivity for owners while making work more dehumanizing for laborers.
+
+Q: The Great Merger Movement (1895-1904) resulted in:
+1: Smaller, more competitive businesses replacing large monopolies
+2: The formation of monopolies and oligopolies concentrating economic power
+3: Government takeover of major industries
+4: A dramatic decrease in U.S. industrial output
+ANSWER: 2
+EXPLAIN: Thousands of companies consolidated into giant corporations and trusts, especially in steel, oil, and railroads. This concentrated enormous economic power in few hands, fueling calls for antitrust legislation.
+
+Q: J.P. Morgan's role in the Gilded Age economy was:
+1: He founded Standard Oil
+2: He invented the assembly line
+3: He was a powerful banker who consolidated industries, including forming U.S. Steel
+4: He was the first president to regulate big business
+ANSWER: 3
+EXPLAIN: Morgan was finance capitalism personified — he didn't make products, he consolidated the people who did. He financed mergers across railroads, steel, and electricity, accumulating power that rivaled governments.
+
+Q: J.P. Morgan stabilized the economy during which financial crisis?
+1: The Great Depression of 1929
+2: The Panic of 1893
+3: The Panic of 1907
+4: The Silver Crisis of 1896
+ANSWER: 3
+EXPLAIN: During the Panic of 1907, Morgan organized a private rescue — convincing banks to pool resources to stop collapse. Congress was alarmed that one private citizen held this much power, which accelerated creation of the Federal Reserve in 1913.
+
+Q: How was Darwin's "On the Origin of Species" misapplied to economics?
+1: It inspired labor unions to demand equal pay
+2: It was used to justify wealth inequality as a natural outcome of competition
+3: It led business leaders to embrace collective ownership
+4: It encouraged government investment in public education
+ANSWER: 2
+EXPLAIN: Darwin meant natural selection for biological evolution over vast timescales. Social Darwinists applied it to human society to claim the wealthy were "fit" — a misuse Darwin never endorsed, but one that conveniently justified opposing worker protections and government regulation.
+
+Q: The Knights of Labor were notable for accepting:
+1: Only skilled white male workers
+2: Only railroad industry workers
+3: Skilled and unskilled workers, women, and Black workers
+4: Only immigrants from Western Europe
+ANSWER: 3
+EXPLAIN: The Knights had an unusually inclusive vision — accepting workers across skill levels, races, and genders. This made them a mass movement but also created internal tensions that the more focused AFL avoided by restricting membership.
+
+Q: The Knights of Labor's stance on child labor was:
+1: They supported it as economic necessity
+2: They had no official position
+3: They advocated for its abolition
+4: They only opposed it in mining
+ANSWER: 3
+EXPLAIN: Abolishing child labor was a core Knights demand — along with the 8-hour workday and equal pay regardless of gender. These reform goals made them more of a broad social movement than a traditional union focused only on wages.
+
+Q: The AFL under Gompers focused on:
+1: All workers and revolutionary socialist change
+2: Unskilled workers and political party formation
+3: Skilled workers and collective bargaining for wages and conditions
+4: All workers and broad social reform legislation
+ANSWER: 3
+EXPLAIN: Gompers called his approach "pure and simple unionism" — focus on what you can win now (wages, hours, conditions) through collective bargaining rather than chasing broad political reforms. This pragmatism made the AFL more durable than the Knights.
+
+Q: Why was the AFL more successful long-term than the Knights of Labor?
+1: It had more members including unskilled workers
+2: It adopted a moderate approach using collective bargaining and targeted strikes
+3: It had government support from the beginning
+4: It rejected all immigrants to avoid conflict
+ANSWER: 2
+EXPLAIN: The AFL survived by staying focused and practical. Rather than trying to reform all of society, it negotiated specific contracts for specific workers. Less radical but far more effective at delivering measurable gains over the long term.
+
+Q: The Haymarket Riot (1886) began as a rally for:
+1: Women's suffrage
+2: Free silver
+3: An 8-hour workday
+4: Nationalization of railroads
+ANSWER: 3
+EXPLAIN: Chicago workers rallied at Haymarket Square on May 4, 1886 to protest police violence against workers striking for an 8-hour workday. An unknown bomb-thrower transformed a labor rally into a deadly incident used to discredit the entire movement.
+
+Q: What made the Haymarket Riot so damaging to labor?
+1: Strike leaders signed a secret deal with factory owners
+2: A bomb was thrown killing people, leading to public backlash against unions as violent radicals
+3: Workers burned down a Chicago factory
+4: Government arrested Samuel Gompers
+ANSWER: 2
+EXPLAIN: No one proved who threw the bomb, but eight anarchists were convicted in a controversial trial. The association of labor organizing with violence and anarchism drove away middle-class support and decimated Knights of Labor membership.
+
+Q: The Pullman Strike of 1894 began because:
+1: Pullman workers demanded the right to unionize
+2: Wage cuts and high rents in company-owned housing in Pullman, Illinois
+3: Pullman fired all workers and replaced them with immigrants
+4: Congress passed a law banning railroad unions
+ANSWER: 2
+EXPLAIN: Pullman cut wages 25% during the depression but didn't lower rents in the company town where workers were required to live. Workers saw take-home pay collapse while Pullman's profits were protected — making a strike inevitable.
+
+Q: Who was the key labor leader arrested during the Pullman Strike?
+1: Samuel Gompers
+2: Terence Powderly
+3: Eugene V. Debs
+4: William Jennings Bryan
+ANSWER: 3
+EXPLAIN: Debs led the American Railway Union's sympathy strike that paralyzed railroads nationwide. His arrest for defying a federal injunction and subsequent imprisonment radicalized him — he became a socialist and five-time presidential candidate.
+
+Q: The Farmers' Alliance promoted cooperative buying and selling to combat:
+1: Urban political machines
+2: The monopolistic practices of railroads and grain elevator operators
+3: Foreign competition in agricultural markets
+4: The spread of Taylorism to farms
+ANSWER: 2
+EXPLAIN: Railroads charged inflated shipping rates and grain elevator operators paid artificially low prices — exploiting farmers' lack of alternatives. The Alliance tried to build cooperative organizations that cut out these exploitative middlemen.
+
+Q: Populist "free silver" was meant to:
+1: Give silver coins to farmers for free
+2: Increase the money supply causing inflation and relieving farmers' debt
+3: Tie the dollar exclusively to silver
+4: Sell government silver to reduce the national debt
+ANSWER: 2
+EXPLAIN: Farmers owed fixed debts borrowed when prices were higher. Inflation from expanding the silver-backed money supply would raise crop prices and let farmers repay old debts with cheaper dollars. The gold standard kept money tight and deflation crushing.
+
+Q: The Gold Standard Act (1900) was a defeat for:
+1: Industrial monopolists wanting cheaper credit
+2: Populists and free silver advocates
+3: Railroad companies depending on inflation
+4: Urban immigrants who supported bimetallism
+ANSWER: 2
+EXPLAIN: The Gold Standard Act locked U.S. currency to gold reserves only, killing the Populist dream of inflating the money supply with silver. It signaled the final triumph of industrial-financial interests over agrarian reform movements.
+
+Q: The Gold Standard Act reflected the dominance of which interests?
+1: Small farmers and rural laborers
+2: Western miners and silver producers
+3: Industrial and banking interests
+4: Labor unions and socialists
+ANSWER: 3
+EXPLAIN: Banks and industrialists wanted a stable deflationary currency — it protected the value of their loans and savings. The gold standard served creditors over debtors, exactly what Populists had argued all along.
+
+Q: Karl Marx's core argument was:
+1: Capitalism is efficient if properly regulated
+2: History is driven by class struggle and the proletariat would overthrow the bourgeoisie
+3: Workers should seek gradual reform within capitalism
+4: Democracy and capitalism must be preserved together
+ANSWER: 2
+EXPLAIN: Marx argued all of history was a story of class conflict — slaves vs. masters, serfs vs. lords, workers vs. capitalists. He predicted the working class would eventually overthrow the owning class and build a socialist society.
+
+Q: Why did socialism gain traction in the U.S. during the late 19th century?
+1: The government endorsed socialist ideas to combat monopolies
+2: It challenged capitalism and promoted more equitable wealth distribution
+3: European socialist nations sent organizers to the U.S.
+4: Most factory owners voluntarily adopted socialist principles
+ANSWER: 2
+EXPLAIN: As the gap between industrial wealth and worker poverty became glaring, socialist ideas resonated. Leaders like Eugene Debs used Marxist frameworks to explain why workers were struggling despite producing enormous national wealth.
+
+Q: Carnegie's "Gospel of Wealth" argued:
+1: Wealth should be taxed heavily to fund government
+2: The wealthy have a moral obligation to distribute their wealth for the public good
+3: The poor deserve no charity due to moral failure
+4: Business profits should be fully reinvested
+ANSWER: 2
+EXPLAIN: Carnegie argued the wealthy were society's best administrators of capital — accumulate wealth but then give it away wisely for public benefit. This justified inequality while promoting philanthropy as a substitute for structural reform.
+
+Q: "Robber Barons" were criticized primarily for:
+1: Refusing military service
+2: Opposing immigration
+3: Exploiting workers and engaging in unethical practices to accumulate wealth
+4: Supporting the gold standard
+ANSWER: 3
+EXPLAIN: Critics used "Robber Baron" to describe industrialists who crushed unions, bribed politicians, fixed prices, and destroyed competition — accumulating fortunes through practices that exploited workers and consumers rather than through fair market competition.
+
+Q: Rockefeller built Standard Oil into a monopoly through:
+1: Vertical integration controlling wells through pipelines
+2: Horizontal integration absorbing competing refineries
+3: Government subsidies giving exclusive drilling rights
+4: Patent control preventing competitors from refining
+ANSWER: 2
+EXPLAIN: Horizontal integration means buying up competitors at the same stage of production. Rockefeller offered rivals a choice: sell at his price or be driven out through price wars and railroad rebate deals that only Standard Oil received.
+
+Q: Standard Oil was broken up under antitrust law in:
+1: 1900
+2: 1907
+3: 1911
+4: 1920
+ANSWER: 3
+EXPLAIN: The Supreme Court ruled in 1911 that Standard Oil violated the Sherman Antitrust Act and ordered it split into 34 companies. Ironically, Rockefeller's shares in all 34 companies made him even richer after the breakup.
+
+Q: Ida Tarbell is famous for exposing which company?
+1: U.S. Steel
+2: Standard Oil
+3: Carnegie Steel
+4: Pennsylvania Railroad
+ANSWER: 2
+EXPLAIN: Tarbell's 19-part investigative series in McClure's Magazine (1902-04) documented Standard Oil's secret railroad rebates, predatory pricing, and political manipulation — building massive public support for breaking up Rockefeller's monopoly.
