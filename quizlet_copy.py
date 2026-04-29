@@ -25,7 +25,6 @@ Question file format:
     3: Third choice
     4: Fourth choice
     ANSWER: 2                      ← number 1-4
-    EXPLAIN: Why this answer is correct (optional — shown on wrong answer)
 """
 
 import tkinter as tk
@@ -67,11 +66,10 @@ def load_questions_from_file(filepath):
                 ans = line[7:].strip()
                 if ans in ("1", "2", "3", "4"):
                     q["answer"] = int(ans) - 1   # 0-indexed
+                    q.setdefault("explain", "")
                     questions.append(q)
                     q = None
 
-            elif line.upper().startswith("EXPLANATION:") and questions:
-                questions[-1]["explain"] = line[12:].strip()
             elif line.upper().startswith("EXPLAIN:") and questions:
                 questions[-1]["explain"] = line[8:].strip()
 
@@ -314,12 +312,14 @@ class QuizApp:
                                        bg="#1a1a2e", fg="white")
         self.feedback_label.pack(pady=(0, 2))
 
-        # Explanation (shown on wrong answer)
-        self.explain_label = tk.Label(self.root, text="",
-                                      font=("Courier New", 10, "italic"),
-                                      bg="#1a1a2e", fg="#ffd700",
+        # Explanation
+        explain_outer = tk.Frame(self.root, bg="#0f1a2e", padx=14, pady=8)
+        explain_outer.pack(fill="x", padx=20, pady=(0, 2))
+        self.explain_label = tk.Label(explain_outer, text="",
+                                      font=("Courier New", 9),
+                                      bg="#0f1a2e", fg="#8ab4d4",
                                       wraplength=740, justify="left")
-        self.explain_label.pack(padx=24, pady=(0, 2))
+        self.explain_label.pack(anchor="w")
 
         # Hint
         self.hint_label = tk.Label(self.root, text="",
@@ -403,11 +403,6 @@ class QuizApp:
                 "correct": q["choices"][correct_idx]
             })
 
-        # Show explanation for every answer, right or wrong
-        explanation = q.get("explain", "")
-        if explanation:
-            self.explain_label.config(text=f"💡  {explanation}")
-
             # Re-insert question at a random position later in the queue
             # (but not immediately — at least 2 spots away, or end of queue)
             retry_q = dict(q)
@@ -418,6 +413,11 @@ class QuizApp:
         self.pb_var.set(self.score)
         self.score_label.config(
             text=f"✅ {self.score}  ❌ {self.total_asked - self.score}")
+
+        # Show explanation if available
+        explain = q.get("explain", "")
+        self.explain_label.config(text=f"💡 {explain}" if explain else "")
+
         self.hint_label.config(text="Press any key to continue  →")
         self.root.after(300, self._bind_advance_key)
 
