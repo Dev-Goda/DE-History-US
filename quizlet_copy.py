@@ -118,9 +118,9 @@ class QuizApp:
     # ── Styles ──────────────────────────────
     def _setup_styles(self):
         s = ttk.Style()
-        s.theme_use("clam")
+        s.theme_use("classic")
         s.configure("TCombobox",
-                    fieldbackground="#16213e", background="#0f3460",
+                    fieldbackground="#16213e", background="#ffffff",
                     foreground="#e0e0e0", selectbackground="#e94560",
                     font=("Courier New", 11))
         s.configure("bar.Horizontal.TProgressbar",
